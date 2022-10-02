@@ -1,0 +1,4 @@
+ALTER TABLE production.stocks
+DROP
+CONSTRAINT FK__stocks__store_id__3E52440B
+GO
